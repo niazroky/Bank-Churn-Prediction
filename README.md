@@ -12,7 +12,7 @@ The dataset for this project was generated from a deep learning model trained on
 
 ## Approach
 
-In this project, I explore various machine learning algorithms to predict customer churn based on the provided dataset. After data preprocessing and exploratory data analysis, we build several models and evaluate their performance using appropriate metrics.
+In this project, I explore various machine learning algorithms to predict customer churn based on the provided dataset. After data preprocessing and exploratory data analysis, I build several models and evaluate their performance using appropriate metrics.
 
 ## Conclusion
 
